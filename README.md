@@ -3,8 +3,8 @@
 
 - 💻 I'm specialized in Reactjs and its ecosystem
 
-- 🔭 I’m currently looking for a web development internship in 2024 in Montpellier
-
+- 🔭 I’m currently working at @Teads as a Software Engineer Intern
+  
 - 📫 How to reach me **jazzmoret@gmail.com**
 
 # Languages and Tools:
